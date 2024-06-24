@@ -50,3 +50,9 @@ th {
   border-width: 1px;
   border-color: grey;
 }
+
+td .edit-btn {
+  background-color: #66c2ff;
+  color: white;
+  width: 100%;
+}
